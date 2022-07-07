@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://vk.com/rdnaskelaa" target="_blank">Aleksandr</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">IT specialist and QA engineer from Russia 🇷🇺</h3>
+[Пример моих тест кейсов](https://drive.google.com/drive/folders/1goSNDNqhvd_tBxEd2gp_f1s90FHVN8lu?usp=sharing)
+---
+
 
 <!--
 **RDnaskela/RDnaskela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
