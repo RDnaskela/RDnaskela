@@ -1,20 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/rdnaskelaa" target="_blank">Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">IT specialist and QA engineer from Russia </h3>
+<h3 align="center">IT specialist and QA engineer from Russia 🇷🇺</h3>
+
 <a href="https://drive.google.com/drive/folders/1goSNDNqhvd_tBxEd2gp_f1s90FHVN8lu?usp=sharing" target="_blank">Моя работа QA Engineer</a>
+
+<a href="https://stavropol.hh.ru/resume/4c87f745ff029214770039ed1f6773707a5544" target="_blank">Мое резюме</a>
+
+<a href="https://stepik.org/users/375834744" target="_blank">Профиль с пройденными курсами</a>
+
 ![](https://komarev.com/ghpvc/?username=RDnaskela)
-
-<!--
-**RDnaskela/RDnaskela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
